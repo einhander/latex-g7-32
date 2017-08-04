@@ -1,1 +1,1 @@
-../sty/G7-32.cls
+../latex-g7-32/G7-32.cls
